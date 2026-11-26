@@ -14,6 +14,7 @@ namespace LabExer
     public partial class FrmStudentRecord : Form
     {
         // Lab exercise: Student Record form - updated
+        // Done modified!
         public FrmStudentRecord()
         {
             InitializeComponent();
